@@ -33,6 +33,20 @@
     </item>
     
     <item>
+      <title>Trash Cans in the East Cameron Bike Lane</title>
+      <link>https://nataliamush.github.io/post/cameronbikelane/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://nataliamush.github.io/post/cameronbikelane/</guid>
+      <description>&lt;h1 id=&#34;a-small-sample-of-bike-lane-blockages&#34;&gt;A Small Sample of Bike Lane Blockages&lt;/h1&gt;
+&lt;img src=&#34;https://nataliamush.github.io/post/cameronbikelane/index.en_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;
+&lt;p&gt;I started counting trash and recycling bins in the East Cameron bike lane when I realized that no one puts bins into car lanes, making cars weave into other lanes to avoid hitting them, but I&amp;rsquo;ve seen several sketchy situations with bikers having to hop into the car lane and getting very closely passed as a result.&lt;/p&gt;
+&lt;p&gt;Some bins are consistently &lt;em&gt;not&lt;/em&gt; in the bikelane, but rather in the driveway or on the grass, and I&amp;rsquo;m very grateful to the people choosing their bin location carefully!&lt;/p&gt;
+&lt;p&gt;This chart currently only includes my data - if you&amp;rsquo;d like to contribute and fill in the gaps, stay tuned for a submission form!&lt;/p&gt;
+&lt;p&gt;Can you guess which days are trash days?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://nataliamush.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -109,74 +123,6 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://nataliamush.github.io/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://nataliamush.github.io/post/2020-12-01-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://nataliamush.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trash Cans in the East Cameron Bike Lane</title>
-      <link>https://nataliamush.github.io/post/cameronbikelane/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://nataliamush.github.io/post/cameronbikelane/</guid>
-      <description>
-
-
-&lt;div id=&#34;a-small-sample-of-bike-lane-blockages&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;A Small Sample of Bike Lane Blockages&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;https://nataliamush.github.io/post/cameronbikelane/index.en_files/figure-html/plot-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;I started counting trash and recycling bins in the East Cameron bike lane when I realized that no one puts bins into car lanes, making cars weave into other lanes to avoid hitting them, but I’ve seen several sketchy situations with bikers having to hop into the car lane and getting very closely passed as a result.&lt;/p&gt;
-&lt;p&gt;Some bins are consistently &lt;em&gt;not&lt;/em&gt; in the bikelane, but rather in the driveway or on the grass, and I’m very grateful to the people choosing their bin location carefully!&lt;/p&gt;
-&lt;p&gt;Can you guess which days are trash days?&lt;/p&gt;
-&lt;/div&gt;
 </description>
     </item>
     
@@ -284,7 +230,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-857294316&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-391426587&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -294,7 +240,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-857294316&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-391426587&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -769,24 +715,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://nataliamush.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://nataliamush.github.io/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://nataliamush.github.io/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://nataliamush.github.io/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
 </description>
     </item>
     
